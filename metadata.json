@@ -1,0 +1,6 @@
+{
+  "name": "Generative AI Concept Quiz",
+  "description": "생성형 AI의 기본 개념을 학습하고 진단하는 예비 교사 대상 개념 퀴즈 및 자가진단 어플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
